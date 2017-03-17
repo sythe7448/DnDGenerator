@@ -6,7 +6,7 @@
 <body>
 
 <h1>heading</h1>
-<p>Mparagraph.</p>
+<p>paragraph.</p>
 
 </body>
 </html>
